@@ -3,3 +3,8 @@ Name: Kalavati C J
 Roll Number: 402
 Department: CSD
 Semester: 5
+
+Attendance: 85% 
+Result: PASS
+
+Attendance Management
