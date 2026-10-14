@@ -8,3 +8,5 @@ Attendance: 85%
 Result: PASS
 
 Attendance Management
+
+Project: College Management System
