@@ -10,3 +10,5 @@ Result: PASS
 Attendance Management
 
 Project: College Management System
+
+Student Profile
